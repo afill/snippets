@@ -1,1 +1,3 @@
 # snippets
+Various Code and SQL snippets 
+Feel free to use ...
